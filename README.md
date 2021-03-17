@@ -11,4 +11,7 @@ In python, we can easily swap two (or more) numbers without any temp variable.
 # read_vs_resize.py
 Sometimes a small fraction of time matters when we are deploying the project/model in production, so we need to keep in mind very small-small factor like either we should read the image in required size or resize the image after reading.
 
+# reverse_list.py
+It is very easy to reverse a list in python
+
 
