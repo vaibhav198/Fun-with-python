@@ -15,3 +15,9 @@ Sometimes a small fraction of time matters when we are deploying the project/mod
 It is very easy to reverse a list in python
 
 
+
+# Check the folder size of google drive
+Step1: 1st of all open the google colab https://colab.research.google.com/notebooks/intro.ipynb#recent=true and then create a new notebook <br>
+Step2: Now mount your drive <br>
+Step3: Run the command in a cell ```!du -sh /content/drive/My\ Drive/Label```
+
